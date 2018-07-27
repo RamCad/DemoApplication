@@ -26,8 +26,8 @@ public class MainClass extends AbstractClass{
     //accessModifiers.getPRString();
     
     //Public
-    //System.out.println(accessModifiers.temp);
-    //accessModifiers.getString();
+    System.out.println(accessModifiers.temp);
+    accessModifiers.getString();
     
     
     /**
